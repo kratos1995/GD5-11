@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>【广东11选5开奖结果查询】广东11选5开奖号码_广东11选5开奖视频_11选5开奖信息</title>
+<meta name="keywords" content="广东11选5开奖结果,广东11选5开奖号码,广东11选5开奖视频,11选5开奖信息" />
+<meta name="description" content="【广东11选5极限数据分析系统】广东11选5开奖结果果查、广东11选5开奖号码、广东11选5开奖视频、11选5开奖信息，提升广东11选5中奖率到极限，看数据买广东11选5更易中奖" />
+<meta name="robots" content="all" />
+<meta name="copyright" content="极限数据" />
+<link href="/Public/web/css/g.css" rel="stylesheet" type="text/css" />
+<link href="/Public/web/css/header.css" rel="stylesheet" type="text/css" />
+<link href="/Public/web/css/lskj.css" rel="stylesheet" type="text/css" />
+<link href="/Public/web/css/footer.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="/Public/common/js/jquery.min.js"></script>
+<script language="JavaScript" src="/Public/web/js/common.js"></script>
+</head>
+<head>
+<link href="/Public/web/css/weebox.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="/Public/web/prompt/js/jquery-1.8.3.min.js"></script>
+<script language="JavaScript" src="/Public/web/js/common.js"></script>
+<script language="JavaScript" src="/Public/web/js/weebox.js"></script>
+<script language="JavaScript" src="/Public/web/js/bgiframe.js"></script>
+<script type="text/javascript">
+var APPurl = "/index.php"; 
+window.eval=function(){return false}; //重写
+</script>
+</head>
+<body>
+<div class="header">
+<div class="inner">
+<h1><a href="/index.php?m=user&a=login&PHPSESSID=0593861bccacb0492426f0ba15f96059"></a></h1> <div class="mainnav">
+<a href="/index.php?&m=user&a=login&PHPSESSID=0593861bccacb0492426f0ba15f96059" target="_blank">首页</a>
+<a href="/index.php?m=prompt&a=prompt&type=full&PHPSESSID=0593861bccacb0492426f0ba15f96059" class="ico">方案</a>
+<a href="/index.php?m=kaijiang&a=index&cz=cq&type=ssc&PHPSESSID=0593861bccacb0492426f0ba15f96059" class="hover">历史开奖</a>
+<a href="/index.php?m=Zst&PHPSESSID=0593861bccacb0492426f0ba15f96059" target="_blank" class="">走势图</a>
+<a href="/index.php?m=help&a=index&PHPSESSID=0593861bccacb0492426f0ba15f96059" target="_blank" class="">帮助中心</a>
+<a href="/index.php?m=help&a=help7&PHPSESSID=0593861bccacb0492426f0ba15f96059" target="_blank" class="jxsj_nav">教学视频</a>
+<b style="display:block;position:absolute;right:-139px;bottom:9px;color:#fff;font:14px/17px 'Microsoft YaHei','simhei';">讲师QQ:2375073436</b>
+</div>
+<div class="top_right" style="padding:0!important;">
+<div class="head_rt">
+
+<a href="/index.php?m=gmsj&a=gmsj&PHPSESSID=0593861bccacb0492426f0ba15f96059" style="color:#fff;font:14px/17px 'Microsoft YaHei','simhei';display:block;position:absolute;top:17px;right:135px;z-index:1;zoom:1;">充值</a>
+<a href="#" onclick="$.weeboxs.open('/index.php?m=user&a=publiclogin', {title:'会员登录',contentType:'iframe', width:400,height:270,showButton:false,showOk:false,showCancel:false});">登录</a>&nbsp;&nbsp;|&nbsp;
+<a href="/index.php?m=user&a=register&PHPSESSID=0593861bccacb0492426f0ba15f96059">注册</a>
+</div>
+</div>
+<div style="position:absolute;right:170px;bottom:20px;">
+<dl>
+<dt style="float:left;position:absolute;left:3px;margin-top:2px;"><a target="_blank" href="https://wpa.qq.com/msgrd?v=3&uin=2375073436&site=qq&menu=yes"><img style="CURSOR: pointer" src="/Public/web/images/qq_icon.png" width="22" height="22" /></a></dt>
+<dd style="float:left;margin-left:2px;font:14px/28px 'Microsoft YaHei','simhei';">
+<p style="color:#fff;padding-left:28px;font-size:14px;"><a target="_blank" href="https://wpa.qq.com/msgrd?v=3&uin=2375073436&site=qq&menu=yes" style="color:#fff;">客服</a></p>
+</dd>
+</dl>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<span class="blank10"></span>
+<div class="content">
+<div>
+<a href="http://download.i8i6.cn/57hl" target="_blank"><img src="Public/web/images/k02.jpg?v=5" style="width:998px"></a>
+</div>
+<span class="blank10"></span>
+<div class="allfa_table">
+<table>
+<tr>
+<th>
+<div class="dalei_tab">
+<ul>
+<li><span onclick="javascript:window.location.href='/index.php?m=kaijiang&a=index'" class="">时时彩</span></li>
+<li><span onclick="javascript:window.location.href='/index.php?m=kaijiang&a=index&cz=jx11x5&type=11x5'" class="hover">11选5</span></li>
+<li><span onclick="javascript:window.location.href='/index.php?m=kaijiang&a=index&cz=3d&type=3d'" class="">3D</span></li>
+<li><span onclick="javascript:window.location.href='/index.php?m=kaijiang&a=index&cz=pl3&type=pl3'" class="">排三</span></li>
+<li><span onclick="javascript:window.location.href='/index.php?m=kaijiang&a=index&cz=ssl&type=ssl'" class="">时时乐</span></li>
+<div class="clear"></div>
+</ul>
+</div>
+</th>
+</tr>
+</table>
+</div>
+<div class="difangcai_box" style="display:none;">
+<ul>
+<li><span onclick="javascript:window.location.href='/index.php?m=kaijiang&a=index'" class="">重庆欢乐生肖</span></li>
+<li><span onclick="javascript:window.location.href='/index.php?m=kaijiang&a=index&cz=xj&type=ssc'" class="">新疆时时彩</span></li>
+<li><span onclick="javascript:window.location.href='/index.php?m=kaijiang&a=index&cz=tj&type=ssc'" class="">天津时时彩</span></li>
+
+<li style="width: 440px;color: red;">
+最近发现一些不法分子利用本站开奖及统计信息进行诈骗，任何本站以外的行为，及由此行为引起任何后果均与本站无关，特此声明
+</li>
+<div class="clear"></div>
+</ul>
+</div>
+<div class="difangcai_box" style="">
+<ul>
+<li><span onclick="javascript:window.location.href='/index.php?m=kaijiang&a=index&cz=jx11x5&type=11x5'" class="">江西11x5</span></li>
+<li><span onclick="javascript:window.location.href='/index.php?m=kaijiang&a=index&cz=sd11x5&type=11x5'" class="">山东11x5</span></li>
+<li><span onclick="javascript:window.location.href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5'" class="hover">广东11x5</span></li>
+<li style="width: 440px;color: red;">
+最近发现一些不法分子利用本站开奖及统计信息进行诈骗，任何本站以外的行为，及由此行为引起任何后果均与本站无关，特此声明
+</li>
+<div class="clear"></div>
+</ul>
+</div>
+<div class="zjfa_table">
+<table>
+<tr>
+<th>序号</th>
+<th>期号</th>
+<th>开奖时间</th>
+<th>开奖号码</th>
+</tr>
+<tr>
+<td>1</td>
+<td><span class="c_333">2020072642</span></td>
+<td>
+2020-07-26 23:12:00
+</td>
+<td>
+<div class="kj_qiu1">
+<span>05</span>
+<span>07</span>
+<span>09</span>
+<span>01</span>
+<span>03</span>
+</div>
+</td>
+</tr><tr>
+<td>2</td>
+<td><span class="c_333">2020072641</span></td>
+<td>
+2020-07-26 22:52:00
+</td>
+<td>
+<div class="kj_qiu1">
+<span>01</span>
+<span>07</span>
+<span>11</span>
+<span>10</span>
+<span>02</span>
+</div>
+</td>
+</tr><tr>
+<td>3</td>
+<td><span class="c_333">2020072640</span></td>
+<td>
+2020-07-26 22:32:00
+</td>
+<td>
+<div class="kj_qiu1">
+<span>01</span>
+<span>05</span>
+<span>11</span>
+<span>04</span>
+<span>09</span>
+</div>
+</td>
+</tr><tr>
+<td>4</td>
+<td><span class="c_333">2020072639</span></td>
+<td>
+2020-07-26 22:12:00
+</td>
+<td>
+<div class="kj_qiu1">
+<span>08</span>
+<span>11</span>
+<span>10</span>
+<span>06</span>
+<span>01</span>
+</div>
+</td>
+</tr><tr>
+<td>5</td>
+<td><span class="c_333">2020072638</span></td>
+<td>
+2020-07-26 21:52:00
+</td>
+<td>
+<div class="kj_qiu1">
+<span>09</span>
+ <span>08</span>
+<span>07</span>
+<span>05</span>
+<span>06</span>
+</div>
+</td>
+</tr><tr>
+<td>6</td>
+<td><span class="c_333">2020072637</span></td>
+<td>
+2020-07-26 21:32:00
+</td>
+<td>
+<div class="kj_qiu1">
+<span>07</span>
+<span>09</span>
+<span>04</span>
+<span>08</span>
+<span>10</span>
+</div>
+</td>
+</tr><tr>
+<td>7</td>
+<td><span class="c_333">2020072636</span></td>
+<td>
+2020-07-26 21:12:00
+</td>
+<td>
+<div class="kj_qiu1">
+<span>03</span>
+<span>08</span>
+<span>04</span>
+<span>09</span>
+<span>05</span>
+</div>
+</td>
+</tr><tr>
+<td>8</td>
+<td><span class="c_333">2020072635</span></td>
+<td>
+2020-07-26 20:52:00
+</td>
+<td>
+<div class="kj_qiu1">
+<span>02</span>
+<span>03</span>
+<span>06</span>
+<span>07</span>
+<span>04</span>
+</div>
+</td>
+</tr><tr>
+<td>9</td>
+<td><span class="c_333">2020072634</span></td>
+<td>
+2020-07-26 20:31:00
+</td>
+<td>
+<div class="kj_qiu1">
+<span>04</span>
+<span>03</span>
+<span>05</span>
+<span>07</span>
+<span>11</span>
+</div>
+</td>
+</tr><tr>
+<td>10</td>
+<td><span class="c_333">2020072633</span></td>
+<td>
+2020-07-26 20:11:00
+</td>
+<td>
+<div class="kj_qiu1">
+<span>07</span>
+<span>04</span>
+<span>06</span>
+<span>01</span>
+<span>11</span>
+</div>
+</td>
+</tr><tr>
+<td>11</td>
+<td><span class="c_333">2020072632</span></td>
+<td>
+2020-07-26 19:51:00
+</td>
+<td>
+<div class="kj_qiu1">
+<span>04</span>
+<span>01</span>
+<span>03</span>
+<span>02</span>
+<span>06</span>
+</div>
+</td>
+</tr><tr>
+<td>12</td>
+<td><span class="c_333">2020072631</span></td>
+<td>
+2020-07-26 19:32:00
+</td>
+<td>
+<div class="kj_qiu1">
+<span>11</span>
+<span>05</span>
+<span>02</span>
+<span>08</span>
+<span>10</span>
+</div>
+</td>
+</tr><tr>
+<td>13</td>
+<td><span class="c_333">2020072630</span></td>
+<td>
+2020-07-26 19:11:00
+</td>
+<td>
+<div class="kj_qiu1">
+<span>10</span>
+<span>05</span>
+<span>07</span>
+<span>06</span>
+<span>04</span>
+</div>
+</td>
+</tr><tr>
+<td>14</td>
+<td><span class="c_333">2020072629</span></td>
+<td>
+2020-07-26 18:52:00
+</td>
+<td>
+<div class="kj_qiu1">
+<span>07</span>
+<span>11</span>
+<span>09</span>
+<span>05</span>
+<span>02</span>
+</div>
+</td>
+</tr><tr>
+<td>15</td>
+<td><span class="c_333">2020072628</span></td>
+<td>
+2020-07-26 18:32:00
+</td>
+<td>
+<div class="kj_qiu1">
+<span>10</span>
+<span>06</span>
+<span>05</span>
+<span>04</span>
+<span>08</span>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div class="page" id="pages"> 275651 条记录 1/18377 页 <a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=2&PHPSESSID=0593861bccacb0492426f0ba15f96059'>下一页</a> &nbsp;<span class='current'>1</span>&nbsp;<a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=2&PHPSESSID=0593861bccacb0492426f0ba15f96059'>&nbsp;2&nbsp;</a>&nbsp;<a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=3&PHPSESSID=0593861bccacb0492426f0ba15f96059'>&nbsp;3&nbsp;</a>&nbsp;<a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=4&PHPSESSID=0593861bccacb0492426f0ba15f96059'>&nbsp;4&nbsp;</a>&nbsp;<a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=5&PHPSESSID=0593861bccacb0492426f0ba15f96059'>&nbsp;5&nbsp;</a> <a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=6&PHPSESSID=0593861bccacb0492426f0ba15f96059'>下5页</a> <a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=18377&PHPSESSID=0593861bccacb0492426f0ba15f96059'>最后一页</a></div>
+</div>
+
+
+<span class="blank10"></span>
+<div class="foot_txt">
+<p>Copyright &copy; 2015 www.caipiaow.com All Rights Reserved. 北京亿鸣中天科技发展有限公司</p>
+
+<p>《中华人民共和国电信与信息服务业务经营许可证》编号：京ICP备11036906号-21 京ICP证110760号</p>
+
+<div style="width:300px;margin:0 auto; padding:20px 0;">
+<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502033183" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="/Public/web/images/beian.png" style="float:left;" /><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">京公网安备 11010502033183号</p></a>
+</div>
+</div>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?78803024be030ae6c48f7d9d0f3b6f03";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?db147c4616e69316c92375a594235bd8";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</body>
+</html>
