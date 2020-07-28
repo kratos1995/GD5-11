@@ -67,13 +67,13 @@ print("统计数据共计%s条：" % len(count_dwa),'\n',"所有展示如下："
 
 # 正则表达式合并所有List,并对元素进行频率排序
 def Get_Alg():
-    # print("Get_dwanum")
     b = str(get_big_datas)
     Alg = re.findall('[\d]*[\d]', b)
     Alg_int = [int(i) for i in Alg]
 
     return Alg_int
 
+# 将所有抽奖公式（Get_Alg）转为 arry
 re_data = np.array(Get_Alg())
 
 b=0

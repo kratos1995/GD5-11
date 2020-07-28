@@ -3,13 +3,21 @@ import xlwt
 import time
 from openpyxl import workbook
 from openpyxl import load_workbook
+import platform
 
 
 a = ["haha","hahah","wodjwda"]
 b = 1
 c = "公式成立"
 dir = os.path.abspath('.').split('\\ModuLe')[0]
-dir = dir+"\static\excel\\配码表.xls"
+#dir = dir+"\static\excel\\配码表.xls"
+sys = platform.system()
+if sys == "Windows":
+    dir = dir + "\static\excel\\配码表.xls"
+elif sys == "Linux":
+    dir = "/home/yy/配码表.xls"
+else:
+    pass
 if not os.path.exists(dir):
     os.makedirs(dir)
 table_head = ["公式成立",'相同的号码']

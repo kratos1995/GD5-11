@@ -1,3 +1,4 @@
+## -*- coding: utf-8 -*-
 import re
 import numpy as np
 import pymysql
@@ -7,6 +8,7 @@ from collections import Counter
 import csv
 import os
 import time
+import platform
 
 
 # dir = os.path.abspath('.')#.split('\\ModuLe')[0]
@@ -20,9 +22,21 @@ __draw__list = []
 def regd():
     data_list = []
     # 读取原始数据
-    with open('\GD5-11\static\\requestGD511.txt',encoding='utf8') as f:
-        data_list = f.read()
-        f.close()
+    sys = platform.system()
+    if sys == "Windows":
+        with open('\GD5-11\static\\requestGD511.txt', encoding='utf8') as f:
+            data_list = f.read()
+            f.close()
+    elif sys == "Linux":
+        with open('/GD5-11/static/requestGD511.txt', encoding='utf8') as f:
+            data_list = f.read()
+            f.close()
+    else:
+        print("==============无法识别的操作系统================")
+        pass
+    # with open('\GD5-11\static\\requestGD511.txt',encoding='utf8') as f:
+    #     data_list = f.read()
+    #     f.close()
     # 正则清洗（redata原始数据）
     redata = re.findall('>([0-9]\d*)<', data_list)
     fetal1= len(redata)# 获取清洗数据的长度

@@ -1,3 +1,4 @@
+## -*- coding: utf-8 -*-
 import requests
 import os
 import random
@@ -5,6 +6,7 @@ import REGD
 import conmitdb
 import re
 import time
+import platform
 
 def get_proxy():
     return requests.get("http://192.168.1.80:5010/get/").json()
@@ -27,11 +29,30 @@ def page_url(page):
         list = []
         html = requests.get(url, headers=headers)
         html = html.text
-        path = '\GD5-11\static\\requestGD511.txt'
-        with open('\GD5-11\static\\requestGD511.txt', 'wb') as f:
-            f.truncate()
-            f.write(html.encode('utf8'))
-            f.close()
+        # if __name__ == '__main__':
+        sys = platform.system()
+        if sys == "Windows":
+            print("OS is Windows")
+            path = '\GD5-11\static\\requestGD511.txt'
+            with open('\GD5-11\static\\requestGD511.txt', 'wb') as f:
+                f.truncate()
+                f.write(html.encode('utf8'))
+                f.close()
+        elif sys == "Linux":
+            print("OS is Linux!!!")
+            path = '/GD5-11/static/requestGD511.txt'
+            with open('/GD5-11/static/requestGD511.txt', 'wb') as f:
+                f.truncate()
+                f.write(html.encode('utf8'))
+                f.close()
+        else:
+            print("==============无法识别的操作系统================")
+            pass
+        # path = '\GD5-11\static\\requestGD511.txt'
+        # with open('\GD5-11\static\\requestGD511.txt', 'wb') as f:
+        #     f.truncate()
+        #     f.write(html.encode('utf8'))
+        #     f.close()
         regds = REGD.regd()
         regds
         print(url) # 输出当前爬取网址
