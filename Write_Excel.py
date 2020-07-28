@@ -9,17 +9,23 @@ import platform
 a = ["haha","hahah","wodjwda"]
 b = 1
 c = "公式成立"
-dir = os.path.abspath('.').split('\\ModuLe')[0]
+# dir = os.path.abspath('.').split('\\ModuLe')[0]
 #dir = dir+"\static\excel\\配码表.xls"
+dir
 sys = platform.system()
 if sys == "Windows":
+    dir = os.path.abspath('.').split('\\ModuLe')[0]
     dir = dir + "\static\excel\\配码表.xls"
 elif sys == "Linux":
-    dir = "/home/yy/配码表.xls"
+    # linux_path = "/home/yy"
+    # linux_filename = '配码表.xls'
+    # dir = os.path.join(linux_path,linux_filename)
+    dir = os.path.abspath('.').split('/ModuLe')[0]
+    dir = dir + "/static/excel/配码表.xls"
 else:
     pass
-if not os.path.exists(dir):
-    os.makedirs(dir)
+# if not os.path.exists(dir):
+#     os.makedirs(dir)
 table_head = ["公式成立",'相同的号码']
 
 

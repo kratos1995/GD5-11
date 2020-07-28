@@ -10,6 +10,7 @@
 # from ModuLe import Algebra06
 # from ModuLe import Algebra07
 import sys
+import os
 sys.path.append("..") #把上级目录加入到变量中
 import re
 import numpy as np
@@ -23,7 +24,7 @@ from Get_Big_Data import get_big_data,arry_big_data,Get_Alg
 from ModuLe import Algebra301
 from collections import Counter
 import time
-
+import platform
 data = []
 big_data=[]
 
@@ -81,3 +82,11 @@ __Draw__List = str(get_dwanum.Get_dwanum())
 c = __Draw__List+str(Counter(re_data))
 write_excel(b,c,list(count_sum)+get_big_datas)
 datas = str(data)
+
+sys = platform.system()
+if sys == "Linux":
+    val = os.system("cp /tmp/pycharm_project_646/static/excel/配码表.xls /home/yy/配码表.xls")
+    print("已将文件复制到FTP目录:")
+    vall = os.system("ls /home/yy/")
+else:
+    pass

@@ -3,6 +3,7 @@ import pandas as pd
 
 class DatabaseAccess():
     def __init__(self):
+        # self.__db_host = "127.0.0.1"
         self.__db_host = "192.168.2.14"
         self.__db_port = 3306
         self.__db_user = "root"

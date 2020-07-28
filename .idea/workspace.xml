@@ -3,11 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="f1fe55f9-dd60-4241-992c-289e4ee49e9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/GD5-11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GD5-11.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ModuLe/Run_Algebra.py" beforeDir="false" afterPath="$PROJECT_DIR$/ModuLe/Run_Algebra.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/REGD.py" beforeDir="false" afterPath="$PROJECT_DIR$/REGD.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Write_Excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/Write_Excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conmitdb.py" beforeDir="false" afterPath="$PROJECT_DIR$/conmitdb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proxy_pool-master/Config/setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/proxy_pool-master/Config/setting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requestGD511.py" beforeDir="false" afterPath="$PROJECT_DIR$/requestGD511.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/excel/配码表.xls" beforeDir="false" afterPath="$PROJECT_DIR$/static/excel/配码表.xls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/requestGD511.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/requestGD511.txt" afterDir="false" />
@@ -24,7 +26,7 @@
     <SUITE FILE_PATH="coverage/GD5_11$Algebra01.coverage" NAME="Algebra01 Coverage Results" MODIFIED="1594880929613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModuLe" />
     <SUITE FILE_PATH="coverage/GD5_11$formula.coverage" NAME="formula Coverage Results" MODIFIED="1592787198589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModuLe" />
     <SUITE FILE_PATH="coverage/GD5_11$ColNumHigh.coverage" NAME="ColNumHigh Coverage Results" MODIFIED="1594947001888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModuLe" />
-    <SUITE FILE_PATH="coverage/GD5_11$Run_Algebra.coverage" NAME="Run_Algebra Coverage Results" MODIFIED="1595904035654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModuLe" />
+    <SUITE FILE_PATH="coverage/GD5_11$Run_Algebra.coverage" NAME="Run_Algebra Coverage Results" MODIFIED="1595926367900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModuLe" />
     <SUITE FILE_PATH="coverage/GD5_11$Algebra03.coverage" NAME="Algebra03 Coverage Results" MODIFIED="1594612556334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModuLe" />
     <SUITE FILE_PATH="coverage/GD5_11$Algebra06.coverage" NAME="Algebra06 Coverage Results" MODIFIED="1594803562715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModuLe" />
     <SUITE FILE_PATH="coverage/GD5_11$Get_Big_Data.coverage" NAME="Get_Big_Data Coverage Results" MODIFIED="1595776222116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -43,8 +45,8 @@
     <SUITE FILE_PATH="coverage/GD5_11$Algebra301.coverage" NAME="Algebra301 Coverage Results" MODIFIED="1595776237435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModuLe" />
     <SUITE FILE_PATH="coverage/GD5_11$update_db.coverage" NAME="update_db Coverage Results" MODIFIED="1595302725969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GD5_11$proxy.coverage" NAME="proxy Coverage Results" MODIFIED="1591347318150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GD5_11$conmitdb.coverage" NAME="conmitdb Coverage Results" MODIFIED="1592272901713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GD5_11$get_dwanum.coverage" NAME="get_dwanum Coverage Results" MODIFIED="1595312821144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GD5_11$conmitdb.coverage" NAME="conmitdb Coverage Results" MODIFIED="1595922002135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -83,7 +85,7 @@
           <entry key="icls" value="1" />
           <entry key="json" value="1" />
           <entry key="php" value="1" />
-          <entry key="py" value="158" />
+          <entry key="py" value="165" />
           <entry key="txt" value="10" />
         </counts>
       </usages-collector>
@@ -91,19 +93,19 @@
         <counts>
           <entry key="JSON" value="1" />
           <entry key="PLAIN_TEXT" value="18" />
-          <entry key="Python" value="159" />
+          <entry key="Python" value="166" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
-          <entry key="py" value="30179" />
+          <entry key="py" value="30496" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="30179" />
+          <entry key="Python" value="30496" />
         </counts>
       </usages-collector>
     </session>
@@ -113,8 +115,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ModuLe/Run_Algebra.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="774">
+              <caret line="86" column="18" lean-forward="true" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
+              <folding>
+                <element signature="e#298#308#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,8 +127,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requestGD511.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="31" selection-start-line="31" selection-end-line="49" selection-end-column="16" />
+            <state relative-caret-position="521">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -134,8 +139,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conmitdb.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="138">
+              <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -146,8 +151,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/REGD.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="15" />
+            <state relative-caret-position="291">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+              <folding>
+                <element signature="e#25#34#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -155,11 +163,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Write_Excel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            <state relative-caret-position="191">
+              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/1986853788/921807541/xlwt/Workbook.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="707" selection-start-line="707" selection-end-line="707" />
             </state>
           </provider>
         </entry>
@@ -200,7 +217,6 @@
         <option value="$PROJECT_DIR$/static/GD511.csv" />
         <option value="$PROJECT_DIR$/ModuLe/formula.py" />
         <option value="$PROJECT_DIR$/ModuLe/ColNumHigh.py" />
-        <option value="$PROJECT_DIR$/conmitdb.py" />
         <option value="$PROJECT_DIR$/static/formula322.txt" />
         <option value="$PROJECT_DIR$/static/formula/formula322.txt" />
         <option value="$PROJECT_DIR$/ModuLe/Algebra.py" />
@@ -221,10 +237,12 @@
         <option value="$PROJECT_DIR$/get_dwanum.py" />
         <option value="$PROJECT_DIR$/ModuLe/Algebra301.py" />
         <option value="$PROJECT_DIR$/Get_Big_Data.py" />
-        <option value="$PROJECT_DIR$/ModuLe/Run_Algebra.py" />
+        <option value="$PROJECT_DIR$/proxy_pool-master/Config/setting.py" />
         <option value="$PROJECT_DIR$/requestGD511.py" />
         <option value="$PROJECT_DIR$/REGD.py" />
         <option value="$PROJECT_DIR$/Write_Excel.py" />
+        <option value="$PROJECT_DIR$/ModuLe/Run_Algebra.py" />
+        <option value="$PROJECT_DIR$/conmitdb.py" />
       </list>
     </option>
   </component>
@@ -270,6 +288,17 @@
               <item name="GD5-11" type="b2602c69:ProjectViewProjectNode" />
               <item name="GD5-11" type="462c0819:PsiDirectoryNode" />
               <item name="ModuLe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GD5-11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GD5-11" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy_pool-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GD5-11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GD5-11" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy_pool-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GD5-11" type="b2602c69:ProjectViewProjectNode" />
@@ -320,28 +349,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.Run_Algebra">
-    <configuration name="Algebra301" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="GD5-11" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ModuLe" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ModuLe/Algebra301.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="REGD" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GD5-11" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -408,6 +415,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="conmitdb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GD5-11" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conmitdb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="requestGD511" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="GD5-11" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -432,18 +461,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Run_Algebra" />
-      <item itemvalue="Python.Algebra301" />
       <item itemvalue="Python.requestGD511" />
       <item itemvalue="Python.REGD" />
       <item itemvalue="Python.Write_Excel" />
+      <item itemvalue="Python.conmitdb" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Run_Algebra" />
+        <item itemvalue="Python.conmitdb" />
         <item itemvalue="Python.Write_Excel" />
         <item itemvalue="Python.requestGD511" />
         <item itemvalue="Python.REGD" />
-        <item itemvalue="Python.Algebra301" />
       </list>
     </recent_temporary>
   </component>
@@ -476,7 +505,7 @@
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" sideWeight="0.49624062" weight="0.41409692" />
-      <window_info active="true" anchor="bottom" x="831" y="0" width="645" height="1053" id="Run" order="8" sideWeight="0.7866521" visible="true" weight="0.4493392" />
+      <window_info active="true" anchor="bottom" x="831" y="0" width="645" height="1053" id="Run" order="8" sideWeight="0.7866521" visible="true" weight="0.25110132" />
       <window_info anchor="bottom" id="Debug" order="9" sideWeight="0.49343544" weight="0.40859032" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -509,22 +538,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/test.txt" />
-    <entry file="file://$PROJECT_DIR$/index.php" />
-    <entry file="file://D:/Anaconda3/envs/request/Lib/site-packages/requests/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="447" selection-start-line="447" selection-end-line="447" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda3/envs/request/Lib/site-packages/requests/adapters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1253">
-          <caret line="515" selection-start-line="515" selection-end-line="515" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Anaconda3/envs/request/Lib/site-packages/urllib3/connection.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -716,13 +729,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ModuLe/Algebra301.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/update_db.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -760,47 +766,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conmitdb.py">
+    <entry file="file://$PROJECT_DIR$/proxy_pool-master/cli/proxyPool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requestGD511.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="31" selection-start-line="31" selection-end-line="49" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-207" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/REGD.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="15" />
+        <state relative-caret-position="291">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="e#25#34#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Write_Excel.py">
+    <entry file="file://$PROJECT_DIR$/proxy_pool-master/Config/setting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state relative-caret-position="115">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/1986853788/921807541/xlwt/CompoundDoc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="261" selection-start-line="261" selection-end-line="261" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/1986853788/921807541/xlwt/Workbook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="707" selection-start-line="707" selection-end-line="707" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModuLe/Algebra301.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-836">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/requestGD511.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Write_Excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conmitdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ModuLe/Run_Algebra.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="774">
+          <caret line="86" column="18" lean-forward="true" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
+          <folding>
+            <element signature="e#298#308#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

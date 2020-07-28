@@ -9,7 +9,7 @@ import time
 import platform
 
 def get_proxy():
-    return requests.get("http://192.168.1.80:5010/get/").json()
+    return requests.get("http://127.0.0.1:5010/get/").json()
 
 def page_url(page):
     pages = page
@@ -41,7 +41,7 @@ def page_url(page):
         elif sys == "Linux":
             print("OS is Linux!!!")
             path = '/GD5-11/static/requestGD511.txt'
-            with open('/GD5-11/static/requestGD511.txt', 'wb') as f:
+            with open('\GD5-11\static\\requestGD511.txt', 'wb') as f:
                 f.truncate()
                 f.write(html.encode('utf8'))
                 f.close()

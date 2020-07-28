@@ -28,7 +28,7 @@ def regd():
             data_list = f.read()
             f.close()
     elif sys == "Linux":
-        with open('/GD5-11/static/requestGD511.txt', encoding='utf8') as f:
+        with open('\GD5-11\static\\requestGD511.txt', encoding='utf8') as f:
             data_list = f.read()
             f.close()
     else:

@@ -34,7 +34,7 @@ HEADER = """
 PY3 = sys.version_info >= (3,)
 
 DB_TYPE = getenv('db_type', 'SSDB').upper()
-DB_HOST = getenv('db_host', '192.168.2.14')
+DB_HOST = getenv('db_host', '127.0.0.1')
 DB_PORT = getenv('db_port', 8888)
 DB_PASSWORD = getenv('ssdb', '')
 
