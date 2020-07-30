@@ -60,3 +60,5 @@ def page_url(page):
         if index >=page:
             print('执行完毕')
             break
+
+# page_url(5)

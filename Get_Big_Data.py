@@ -30,12 +30,13 @@ def get_dbquantity():
     return read_data
 
 
+a = [[1,2,3,4,5],[2,3,4,5,6]]
 # 清洗所有公式为Array
 def Get_Alg(count_number_rset):
     b = str(count_number_rset)
     Alg = re.findall('[\d]*[\d]', b)
     Alg_int = [int(i) for i in Alg]
-    return dwa_int
+    return Alg_int
 
 
 

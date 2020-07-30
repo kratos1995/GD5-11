@@ -1,5 +1,6 @@
 
-from ModuLe import Run_Algebra as run
+# from ModuLe import Run_Algebra as run
+from requestGD511 import page_url as page
 import time
 import os
 from datetime import datetime
@@ -17,15 +18,24 @@ from apscheduler.schedulers.blocking import BlockingScheduler
 #     Run_Algebra()
 # job1()
 
+def run():
+    print("运行成功")
 
 def tick():
-    run
-    print('Tick! The time is: %s' % datetime.now())
+    page(1)
+    print('''
+    ************************************************************************************
+    ************************************************************************************
+    ***********************************定时任务运行成功***********************************
+    ************************************************************************************
+    ************************************************************************************
+    ''',
+    "*****************************************    现在的时间是: %s" % datetime.now())
 
 if __name__ == '__main__':
     scheduler = BlockingScheduler()
-    scheduler.add_job(tick, 'interval', seconds=30)
-    print('Press Ctrl+{0} to exit'.format('Break' if os.name == 'nt' else 'C    '))
+    scheduler.add_job(tick, 'interval', seconds=59)
+    print('按 Ctrl+{0} 退出'.format('Break' if os.name == 'nt' else 'C    '))
 
     try:
         scheduler.start()
@@ -33,4 +43,5 @@ if __name__ == '__main__':
         print('Press Ctrl+{0} to exit'.format('Break' if os.name == 'nt' else 'C'))
     except (KeyboardInterrupt, SystemExit):
         scheduler.shutdown(wait=False)
-        print('Exit The Job!')
+        print('退出工作!')
+

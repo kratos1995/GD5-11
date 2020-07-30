@@ -51,6 +51,10 @@ get_big_datas.pop(0)  # 删除“301公式：出现2~4个”
 
 count_sum = ("统计数据共计%s条：" % len(count_dwa),'\n',"所有展示如下：",'\n',count_dwa)
 print("统计数据共计%s条：" % len(count_dwa),'\n',"所有展示如下：",'\n',count_dwa)
+# 增加抽奖数据arr，不做301匹配，只做统计计算
+no_301_list = Get_Alg(count_dwa)
+
+
 
 # for i in count1:-
 #     data.append(i)
@@ -77,10 +81,16 @@ def Get_Alg():
 # 将所有抽奖公式（Get_Alg）转为 arry
 re_data = np.array(Get_Alg())
 
+no_301arr = np.array(no_301_list)
+no_301count  = [["未做301统计的数据："],[str(Counter(no_301arr))]]
+print(no_301count)
+
+
+
 b=0
 __Draw__List = str(get_dwanum.Get_dwanum())
 c = __Draw__List+str(Counter(re_data))
-write_excel(b,c,list(count_sum)+get_big_datas)
+write_excel(b,c,no_301count+list(count_sum)+get_big_datas)
 datas = str(data)
 
 sys = platform.system()
