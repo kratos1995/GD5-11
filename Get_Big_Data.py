@@ -9,8 +9,8 @@ __getdb_list__ = []  # 用于存储所有抽奖号
 
 def Extract_data(): # 用户输入抽取数量
     while True:
-        __input__ = input("请输入需要抽取的数据：")
-        if __input__.isdigit():
+        __input__ = int(15)#input("请输入需要抽取的数据：")
+        if __input__==15:#.isdigit():
             __Extract_number__.append(__input__)
             break
         else:

@@ -28,21 +28,21 @@ window.eval=function(){return false}; //重写
 <body>
 <div class="header">
 <div class="inner">
-<h1><a href="/index.php?m=user&a=login&PHPSESSID=803542ec1c9cdfb1c6671eb390b1db5f"></a></h1> <div class="mainnav">
-<a href="/index.php?&m=user&a=login&PHPSESSID=803542ec1c9cdfb1c6671eb390b1db5f" target="_blank">首页</a>
-<a href="/index.php?m=prompt&a=prompt&type=full&PHPSESSID=803542ec1c9cdfb1c6671eb390b1db5f" class="ico">方案</a>
-<a href="/index.php?m=kaijiang&a=index&cz=cq&type=ssc&PHPSESSID=803542ec1c9cdfb1c6671eb390b1db5f" class="hover">历史开奖</a>
-<a href="/index.php?m=Zst&PHPSESSID=803542ec1c9cdfb1c6671eb390b1db5f" target="_blank" class="">走势图</a>
-<a href="/index.php?m=help&a=index&PHPSESSID=803542ec1c9cdfb1c6671eb390b1db5f" target="_blank" class="">帮助中心</a>
-<a href="/index.php?m=help&a=help7&PHPSESSID=803542ec1c9cdfb1c6671eb390b1db5f" target="_blank" class="jxsj_nav">教学视频</a>
+<h1><a href="/index.php?m=user&a=login&PHPSESSID=a4ba35719ebae8d686b636e1459f66e9"></a></h1> <div class="mainnav">
+<a href="/index.php?&m=user&a=login&PHPSESSID=a4ba35719ebae8d686b636e1459f66e9" target="_blank">首页</a>
+<a href="/index.php?m=prompt&a=prompt&type=full&PHPSESSID=a4ba35719ebae8d686b636e1459f66e9" class="ico">方案</a>
+<a href="/index.php?m=kaijiang&a=index&cz=cq&type=ssc&PHPSESSID=a4ba35719ebae8d686b636e1459f66e9" class="hover">历史开奖</a>
+<a href="/index.php?m=Zst&PHPSESSID=a4ba35719ebae8d686b636e1459f66e9" target="_blank" class="">走势图</a>
+<a href="/index.php?m=help&a=index&PHPSESSID=a4ba35719ebae8d686b636e1459f66e9" target="_blank" class="">帮助中心</a>
+<a href="/index.php?m=help&a=help7&PHPSESSID=a4ba35719ebae8d686b636e1459f66e9" target="_blank" class="jxsj_nav">教学视频</a>
 <b style="display:block;position:absolute;right:-139px;bottom:9px;color:#fff;font:14px/17px 'Microsoft YaHei','simhei';">讲师QQ:2375073436</b>
 </div>
 <div class="top_right" style="padding:0!important;">
 <div class="head_rt">
 
-<a href="/index.php?m=gmsj&a=gmsj&PHPSESSID=803542ec1c9cdfb1c6671eb390b1db5f" style="color:#fff;font:14px/17px 'Microsoft YaHei','simhei';display:block;position:absolute;top:17px;right:135px;z-index:1;zoom:1;">充值</a>
+<a href="/index.php?m=gmsj&a=gmsj&PHPSESSID=a4ba35719ebae8d686b636e1459f66e9" style="color:#fff;font:14px/17px 'Microsoft YaHei','simhei';display:block;position:absolute;top:17px;right:135px;z-index:1;zoom:1;">充值</a>
 <a href="#" onclick="$.weeboxs.open('/index.php?m=user&a=publiclogin', {title:'会员登录',contentType:'iframe', width:400,height:270,showButton:false,showOk:false,showCancel:false});">登录</a>&nbsp;&nbsp;|&nbsp;
-<a href="/index.php?m=user&a=register&PHPSESSID=803542ec1c9cdfb1c6671eb390b1db5f">注册</a>
+<a href="/index.php?m=user&a=register&PHPSESSID=a4ba35719ebae8d686b636e1459f66e9">注册</a>
 </div>
 </div>
 <div style="position:absolute;right:170px;bottom:20px;">
@@ -80,7 +80,6 @@ window.eval=function(){return false}; //重写
 </tr>
 </table>
 </div>
-
 <div class="difangcai_box" style="display:none;">
 <ul>
 <li><span onclick="javascript:window.location.href='/index.php?m=kaijiang&a=index'" class="">重庆欢乐生肖</span></li>
@@ -114,233 +113,233 @@ window.eval=function(){return false}; //重写
 </tr>
 <tr>
 <td>1</td>
-<td><span class="c_333">2020073022</span></td>
+<td><span class="c_333">2020080320</span></td>
 <td>
-2020-07-30 16:31:00
+2020-08-03 15:51:00
 </td>
 <td>
 <div class="kj_qiu1">
-<span>09</span>
-<span>02</span>
+ <span>10</span>
 <span>04</span>
-<span>07</span>
-<span>11</span>
+<span>02</span>
+<span>05</span>
+<span>01</span>
 </div>
 </td>
 </tr><tr>
 <td>2</td>
-<td><span class="c_333">2020073021</span></td>
+<td><span class="c_333">2020080319</span></td>
 <td>
-2020-07-30 16:12:00
+2020-08-03 15:31:00
 </td>
 <td>
 <div class="kj_qiu1">
-<span>09</span>
-<span>05</span>
-<span>10</span>
 <span>04</span>
-<span>02</span>
+<span>09</span>
+<span>01</span>
+<span>05</span>
+<span>08</span>
 </div>
 </td>
 </tr><tr>
 <td>3</td>
-<td><span class="c_333">2020073020</span></td>
+<td><span class="c_333">2020080318</span></td>
 <td>
-2020-07-30 15:51:00
+2020-08-03 15:11:00
 </td>
 <td>
 <div class="kj_qiu1">
+<span>10</span>
 <span>09</span>
 <span>03</span>
 <span>08</span>
 <span>06</span>
-<span>07</span>
 </div>
 </td>
 </tr><tr>
 <td>4</td>
-<td><span class="c_333">2020073019</span></td>
+<td><span class="c_333">2020080317</span></td>
 <td>
-2020-07-30 15:31:00
+2020-08-03 14:51:00
 </td>
 <td>
 <div class="kj_qiu1">
+<span>03</span>
 <span>01</span>
-<span>02</span>
+<span>07</span>
+<span>04</span>
 <span>09</span>
- <span>11</span>
-<span>08</span>
 </div>
 </td>
 </tr><tr>
 <td>5</td>
-<td><span class="c_333">2020073018</span></td>
+<td><span class="c_333">2020080316</span></td>
 <td>
-2020-07-30 15:11:00
+2020-08-03 14:31:00
 </td>
 <td>
 <div class="kj_qiu1">
-<span>06</span>
+<span>07</span>
+<span>01</span>
 <span>08</span>
-<span>09</span>
 <span>11</span>
-<span>03</span>
+<span>05</span>
 </div>
 </td>
 </tr><tr>
 <td>6</td>
-<td><span class="c_333">2020073017</span></td>
+<td><span class="c_333">2020080315</span></td>
 <td>
-2020-07-30 14:51:00
+2020-08-03 14:11:00
 </td>
 <td>
 <div class="kj_qiu1">
-<span>03</span>
-<span>04</span>
-<span>02</span>
+<span>05</span>
+<span>10</span>
 <span>08</span>
+<span>09</span>
 <span>06</span>
 </div>
 </td>
 </tr><tr>
 <td>7</td>
-<td><span class="c_333">2020073016</span></td>
+<td><span class="c_333">2020080314</span></td>
 <td>
-2020-07-30 14:31:00
+2020-08-03 13:52:00
 </td>
 <td>
 <div class="kj_qiu1">
-<span>03</span>
-<span>11</span>
-<span>05</span>
-<span>09</span>
 <span>01</span>
+<span>06</span>
+<span>04</span>
+<span>05</span>
+<span>10</span>
 </div>
 </td>
 </tr><tr>
 <td>8</td>
-<td><span class="c_333">2020073015</span></td>
+ <td><span class="c_333">2020080313</span></td>
 <td>
-2020-07-30 14:11:00
-</td>
-<td>
-<div class="kj_qiu1">
-<span>07</span>
-<span>05</span>
-<span>04</span>
-<span>10</span>
-<span>01</span>
-</div>
-</td>
-</tr><tr>
-<td>9</td>
-<td><span class="c_333">2020073014</span></td>
-<td>
-2020-07-30 13:52:00
-</td>
-<td>
-<div class="kj_qiu1">
-<span>11</span>
-<span>08</span>
-<span>05</span>
-<span>01</span>
-<span>09</span>
-</div>
-</td>
-</tr><tr>
-<td>10</td>
-<td><span class="c_333">2020073013</span></td>
-<td>
-2020-07-30 13:32:00
-</td>
-<td>
-<div class="kj_qiu1">
-<span>07</span>
-<span>04</span>
-<span>10</span>
-<span>08</span>
-<span>05</span>
-</div>
-</td>
-</tr><tr>
-<td>11</td>
-<td><span class="c_333">2020073012</span></td>
-<td>
-2020-07-30 13:12:00
-</td>
-<td>
-<div class="kj_qiu1">
-<span>08</span>
-<span>04</span>
-<span>09</span>
-<span>11</span>
-<span>01</span>
-</div>
-</td>
-</tr><tr>
-<td>12</td>
-<td><span class="c_333">2020073011</span></td>
-<td>
-2020-07-30 12:51:00
+2020-08-03 13:31:00
 </td>
 <td>
 <div class="kj_qiu1">
 <span>06</span>
-<span>10</span>
+<span>09</span>
 <span>07</span>
-<span>03</span>
+<span>11</span>
 <span>08</span>
 </div>
 </td>
 </tr><tr>
-<td>13</td>
-<td><span class="c_333">2020073010</span></td>
+<td>9</td>
+<td><span class="c_333">2020080312</span></td>
 <td>
-2020-07-30 12:31:00
+2020-08-03 13:11:00
 </td>
 <td>
 <div class="kj_qiu1">
-<span>10</span>
+<span>06</span>
+<span>07</span>
 <span>11</span>
-<span>01</span>
 <span>08</span>
+<span>02</span>
+</div>
+</td>
+</tr><tr>
+<td>10</td>
+<td><span class="c_333">2020080311</span></td>
+<td>
+2020-08-03 12:52:00
+</td>
+<td>
+<div class="kj_qiu1">
+<span>07</span>
+<span>09</span>
+<span>05</span>
+<span>03</span>
+<span>01</span>
+</div>
+</td>
+</tr><tr>
+<td>11</td>
+<td><span class="c_333">2020080310</span></td>
+<td>
+2020-08-03 12:31:00
+</td>
+<td>
+<div class="kj_qiu1">
+<span>09</span>
+<span>08</span>
+<span>10</span>
+<span>02</span>
+<span>03</span>
+</div>
+</td>
+</tr><tr>
+<td>12</td>
+<td><span class="c_333">2020080309</span></td>
+<td>
+2020-08-03 12:11:00
+</td>
+<td>
+<div class="kj_qiu1">
+<span>04</span>
+<span>03</span>
+<span>10</span>
+<span>01</span>
+<span>06</span>
+</div>
+</td>
+</tr><tr>
+<td>13</td>
+<td><span class="c_333">2020080308</span></td>
+<td>
+2020-08-03 11:52:00
+</td>
+<td>
+<div class="kj_qiu1">
+<span>05</span>
+<span>01</span>
+<span>03</span>
+<span>09</span>
 <span>02</span>
 </div>
 </td>
 </tr><tr>
 <td>14</td>
-<td><span class="c_333">2020073009</span></td>
+<td><span class="c_333">2020080307</span></td>
 <td>
-2020-07-30 12:12:00
+2020-08-03 11:32:00
 </td>
 <td>
 <div class="kj_qiu1">
-<span>09</span>
-<span>02</span>
-<span>07</span>
-<span>11</span>
+<span>05</span>
 <span>08</span>
+<span>06</span>
+<span>01</span>
+<span>02</span>
 </div>
 </td>
 </tr><tr>
 <td>15</td>
-<td><span class="c_333">2020073008</span></td>
+<td><span class="c_333">2020080306</span></td>
 <td>
-2020-07-30 11:52:00
+2020-08-03 11:11:00
 </td>
 <td>
 <div class="kj_qiu1">
-<span>10</span>
-<span>06</span>
+<span>11</span>
 <span>04</span>
 <span>09</span>
+<span>06</span>
 <span>05</span>
 </div>
 </td>
 </tr>
 </table>
 </div>
-<div class="page" id="pages"> 275799 条记录 1/18387 页 <a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=2&PHPSESSID=803542ec1c9cdfb1c6671eb390b1db5f'>下一页</a> &nbsp;<span class='current'>1</span>&nbsp;<a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=2&PHPSESSID=803542ec1c9cdfb1c6671eb390b1db5f'>&nbsp;2&nbsp;</a>&nbsp;<a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=3&PHPSESSID=803542ec1c9cdfb1c6671eb390b1db5f'>&nbsp;3&nbsp;</a>&nbsp;<a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=4&PHPSESSID=803542ec1c9cdfb1c6671eb390b1db5f'>&nbsp;4&nbsp;</a>&nbsp;<a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=5&PHPSESSID=803542ec1c9cdfb1c6671eb390b1db5f'>&nbsp;5&nbsp;</a> <a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=6&PHPSESSID=803542ec1c9cdfb1c6671eb390b1db5f'>下5页</a> <a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=18387&PHPSESSID=803542ec1c9cdfb1c6671eb390b1db5f'>最后一页</a></div>
+<div class="page" id="pages"> 275965 条记录 1/18398 页 <a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=2&PHPSESSID=a4ba35719ebae8d686b636e1459f66e9'>下一页</a> &nbsp;<span class='current'>1</span>&nbsp;<a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=2&PHPSESSID=a4ba35719ebae8d686b636e1459f66e9'>&nbsp;2&nbsp;</a>&nbsp;<a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=3&PHPSESSID=a4ba35719ebae8d686b636e1459f66e9'>&nbsp;3&nbsp;</a>&nbsp;<a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=4&PHPSESSID=a4ba35719ebae8d686b636e1459f66e9'>&nbsp;4&nbsp;</a>&nbsp;<a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=5&PHPSESSID=a4ba35719ebae8d686b636e1459f66e9'>&nbsp;5&nbsp;</a> <a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=6&PHPSESSID=a4ba35719ebae8d686b636e1459f66e9'>下5页</a> <a href='/index.php?m=kaijiang&a=index&cz=gd11x5&type=11x5&p=18398&PHPSESSID=a4ba35719ebae8d686b636e1459f66e9'>最后一页</a></div>
 </div>
 
 

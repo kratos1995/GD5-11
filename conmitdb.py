@@ -1,10 +1,21 @@
+# -*- coding: utf-8 -*-
 import pymysql
 import pandas as pd
+import os
+import sys
+import platform
 
 class DatabaseAccess():
     def __init__(self):
+        sys = platform.system()
+        if sys == "Linux":  # 如果系统为 Linux 则执行下方命令
+            self.__db_host = "127.0.0.1"
+        elif sys == "Windows":  # 如果系统为 Windows 则执行下方命令
+            self.__db_host = "192.168.2.14"
+        else:  # 如果Linux Windows都不属于则PASS
+            pass
         # self.__db_host = "127.0.0.1"
-        self.__db_host = "192.168.2.14"
+        # self.__db_host = "192.168.2.14"
         self.__db_port = 3306
         self.__db_user = "root"
         self.__db_password = "3301"
