@@ -7,10 +7,10 @@ def send_mail(subject,content_text,attachments):
         'content_text': content_text,
         'attachments':attachments
     }
-    server = zmail.server('15811958840@163.com','Chen1995',smtp_host='smtp.163.com',smtp_port=25,smtp_ssl=False)
+    server = zmail.server('your_account','your_passwd',smtp_host='smtp.163.com',smtp_port=25,smtp_ssl=False)
     #yhlist = 'zj_yfsx@163.com'
-    yhlist = ['790464118@qq.com',"640074586@qq.com"]
-    send = server.send_mail(yhlist, mail_content,cc=['15811958840@163.com'])
+    yhlist = ['client_mail',"client_mail"]
+    send = server.send_mail(yhlist, mail_content,cc=['your_account'])
 
 
 # send_mail(subject="警报：‘Timed_Task’ 模块错误",
